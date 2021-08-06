@@ -1,0 +1,2 @@
+(this["webpackJsonpapp.deri.finance"]=this["webpackJsonpapp.deri.finance"]||[]).push([[20],{741:function(n,a,e){},742:function(n,a,e){},743:function(n,a,e){},775:function(n,a,e){"use strict";e.r(a);var c=e(674),t=(e(741),e(742),e(743),e(667)),i=e(25);a.default=function(n){var a=n.lang;return Object(i.jsxs)("div",{className:"trade-container",children:[Object(i.jsx)(t.a,{lang:a}),Object(i.jsx)("div",{className:"trade-body",children:Object(i.jsx)(c.a,{lang:a})})]})}}}]);
+//# sourceMappingURL=20.61e7a6ad.chunk.js.map
