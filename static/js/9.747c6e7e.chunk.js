@@ -1,0 +1,2 @@
+(this["webpackJsonpderi-client"]=this["webpackJsonpderi-client"]||[]).push([[9],{839:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));var i=t(12);function c(){return Object(i.jsx)("div",{children:"Governance page"})}}}]);
+//# sourceMappingURL=9.747c6e7e.chunk.js.map

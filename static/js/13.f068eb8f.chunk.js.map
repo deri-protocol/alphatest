@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Token/Token.js"],"names":["Token"],"mappings":"8KAAe,SAASA,IACtB,OACE","file":"static/js/13.f068eb8f.chunk.js","sourcesContent":["export default function Token(){\r\n  return(\r\n    <div>Token page</div>\r\n  )\r\n}"],"sourceRoot":""}
