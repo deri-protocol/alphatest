@@ -1,0 +1,2 @@
+(this["webpackJsonpderi-client"]=this["webpackJsonpderi-client"]||[]).push([[11],{903:function(e,t,i){},919:function(e,t,i){"use strict";i.r(t),i.d(t,"default",(function(){return s}));i.p,i(903);var c=i(11);function s(e){var t=e.lang;return Object(c.jsx)("div",{className:"team-info",children:Object(c.jsxs)("div",{className:"team-bg-box",children:[Object(c.jsx)("div",{className:"team-title",children:t["the-team-of-deri"]}),Object(c.jsx)("div",{className:"team-describe",children:t["team-des"]})]})})}}}]);
+//# sourceMappingURL=11.d1480cb7.chunk.js.map
