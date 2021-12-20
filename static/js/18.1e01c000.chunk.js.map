@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Info/Detail.js"],"names":["Detail"],"mappings":"8KAAe,SAASA,IACtB,OACE","file":"static/js/18.1e01c000.chunk.js","sourcesContent":["export default function Detail(){\r\n  return(\r\n    <div>info Detail</div>\r\n  )\r\n}"],"sourceRoot":""}
