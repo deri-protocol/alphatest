@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/Bridge/Bridge.js"],"names":["Bridge"],"mappings":"6KAAe,SAASA,IACtB,OACE","file":"static/js/8.a911a831.chunk.js","sourcesContent":["export default function Bridge(){\n  return(\n    <div>Bridge page</div>\n  )\n}"],"sourceRoot":""}

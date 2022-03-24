@@ -1,2 +1,0 @@
-(this["webpackJsonpderi-client"]=this["webpackJsonpderi-client"]||[]).push([[8],{866:function(e,i,n){"use strict";n.r(i),n.d(i,"default",(function(){return r}));var t=n(12);function r(){return Object(t.jsx)("div",{children:"Bridge page"})}}}]);
-//# sourceMappingURL=8.a911a831.chunk.js.map

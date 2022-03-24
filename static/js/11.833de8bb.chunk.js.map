@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/Governance/Governance.js"],"names":["Governance"],"mappings":"8KAAe,SAASA,IACtB,OACE","file":"static/js/11.833de8bb.chunk.js","sourcesContent":["export default function Governance(){\r\n  return(\r\n    <div>Governance page</div>\r\n  )\r\n}"],"sourceRoot":""}

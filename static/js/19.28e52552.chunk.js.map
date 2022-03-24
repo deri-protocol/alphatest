@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/Info/Index.js"],"names":["Index"],"mappings":"8KAAe,SAASA,IACtB,OACE","file":"static/js/19.28e52552.chunk.js","sourcesContent":["export default function Index(){\r\n  return(\r\n    <div>info index</div>\r\n  )\r\n}"],"sourceRoot":""}
