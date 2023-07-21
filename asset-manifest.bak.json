@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.459667dd.css",
-    "main.js": "/static/js/main.fef3f3a1.js",
+    "main.css": "/static/css/main.252c1b8c.css",
+    "main.js": "/static/js/main.0fa24b34.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -87,6 +87,7 @@
     "static/media/AAVE.svg": "/static/media/AAVE.60ba5fbc996b851b76ed.svg",
     "static/media/feed-back.svg": "/static/media/feed-back.7029d1b9e13e413a6afc.svg",
     "static/media/LTC.svg": "/static/media/LTC.9b83fe3abc1c9cc79391.svg",
+    "static/media/pool-mobile.svg": "/static/media/pool-mobile.9961a12bd3ec39d4821d.svg",
     "static/media/pool-card-background.svg": "/static/media/pool-card-background.393407e449efda5216ec.svg",
     "static/media/wallet-hover-bg.svg": "/static/media/wallet-hover-bg.2f6281e700d73001254e.svg",
     "static/media/btn-info.svg": "/static/media/btn-info.1a6d7bee159a55badd4a.svg",
@@ -174,7 +175,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.459667dd.css",
-    "static/js/main.fef3f3a1.js"
+    "static/css/main.252c1b8c.css",
+    "static/js/main.0fa24b34.js"
   ]
 }
