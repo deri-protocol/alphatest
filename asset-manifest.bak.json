@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bf2ba97.css",
-    "main.js": "/static/js/main.e89424f0.js",
+    "main.css": "/static/css/main.92407372.css",
+    "main.js": "/static/js/main.face93d7.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -45,11 +45,12 @@
     "static/media/coinbase.svg": "/static/media/coinbase.cfc2c880396ac9dfa60f.svg",
     "static/media/ADA.svg": "/static/media/ADA.16778aad2deaccebbc4f.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
-    "static/media/walletConnect.svg": "/static/media/walletConnect.304e327744ae5c9b1b62.svg",
+    "static/media/walletconnect.svg": "/static/media/walletconnect.304e327744ae5c9b1b62.svg",
     "static/media/LUNA.svg": "/static/media/LUNA.e49bae7d2e56a81ca09a.svg",
     "static/media/APT.svg": "/static/media/APT.a04d7017efb5d0823517.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
     "static/media/discord.svg": "/static/media/discord.54d288083912df8c303a.svg",
+    "static/media/close-only.svg": "/static/media/close-only.480d2b7652352096c903.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.f0353c4d841db5d55983.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.39f87b408544df857724.svg",
@@ -123,6 +124,7 @@
     "static/media/toast-pending.svg": "/static/media/toast-pending.8f145332e2a427300ccb.svg",
     "static/media/copy-s.svg": "/static/media/copy-s.65effef83719f4225c94.svg",
     "static/media/finish.svg": "/static/media/finish.cb81808670d20709222e.svg",
+    "static/media/warning.svg": "/static/media/warning.b93836070dc70e9cd43949829db9dd9b.svg",
     "static/media/collateral.svg": "/static/media/collateral.6880051c301b92182179.svg",
     "static/media/argent.svg": "/static/media/argent.2072722af24bb46c8126.svg",
     "static/media/trade-warn.svg": "/static/media/trade-warn.eded38e11a0c864b68e2.svg",
@@ -134,6 +136,7 @@
     "static/media/drop-down-hover.svg": "/static/media/drop-down-hover.0626ff8c2597f09ba027.svg",
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.291a542785088742ee05.svg",
+    "static/media/deri.svg": "/static/media/deri.520d2449010ba041d79ad6e2863c3bdb.svg",
     "static/media/search.svg": "/static/media/search.09d940054c58c4acb1c1b905c175fa68.svg",
     "static/media/staked.svg": "/static/media/staked.45c27f0bfbf6a33ab73db1516cef42f5.svg",
     "static/media/zkSync-logo.svg": "/static/media/zkSync-logo.11b6911865ea1af1ccea.svg",
@@ -177,7 +180,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.2bf2ba97.css",
-    "static/js/main.e89424f0.js"
+    "static/css/main.92407372.css",
+    "static/js/main.face93d7.js"
   ]
 }
