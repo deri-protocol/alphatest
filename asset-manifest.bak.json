@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.92407372.css",
-    "main.js": "/static/js/main.face93d7.js",
+    "main.css": "/static/css/main.bd0dcb50.css",
+    "main.js": "/static/js/main.838d96ec.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -45,7 +45,7 @@
     "static/media/coinbase.svg": "/static/media/coinbase.cfc2c880396ac9dfa60f.svg",
     "static/media/ADA.svg": "/static/media/ADA.16778aad2deaccebbc4f.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
-    "static/media/walletconnect.svg": "/static/media/walletconnect.304e327744ae5c9b1b62.svg",
+    "static/media/walletConnect.svg": "/static/media/walletConnect.304e327744ae5c9b1b62.svg",
     "static/media/LUNA.svg": "/static/media/LUNA.e49bae7d2e56a81ca09a.svg",
     "static/media/APT.svg": "/static/media/APT.a04d7017efb5d0823517.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
@@ -55,6 +55,7 @@
     "static/media/FITFI.svg": "/static/media/FITFI.f0353c4d841db5d55983.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.39f87b408544df857724.svg",
     "static/media/SXP.svg": "/static/media/SXP.39f87b408544df857724.svg",
+    "static/media/beta.svg": "/static/media/beta.d6142eb0822b2f979b18.svg",
     "static/media/share-twitter.svg": "/static/media/share-twitter.88028a1a833f255ab7e72830a2d0deac.svg",
     "static/media/hr-bg.svg": "/static/media/hr-bg.f69e46626fa256bdc3bc.svg",
     "static/media/BTC.svg": "/static/media/BTC.db6e15a8db8b35fff7ad.svg",
@@ -114,6 +115,7 @@
     "static/media/MATIC.svg": "/static/media/MATIC.80d4567910bcd41ec917.svg",
     "static/media/error.svg": "/static/media/error.6fe58031f8a9708ec4d8.svg",
     "static/media/AXS.svg": "/static/media/AXS.35bd73064c26a29e75f3.svg",
+    "static/media/no-nft.svg": "/static/media/no-nft.47097e0e02df5263fe3d7bd2f5357f4f.svg",
     "static/media/email.svg": "/static/media/email.e927b5363753acd9627f.svg",
     "static/media/reset-gamma-codition.svg": "/static/media/reset-gamma-codition.cefc251d2740a8f83913.svg",
     "static/media/no-data.svg": "/static/media/no-data.6ecbcdf7b864cfea1316.svg",
@@ -122,10 +124,14 @@
     "static/media/XRP.svg": "/static/media/XRP.ac1e04f17611364e44ea.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.ac1e04f17611364e44ea.svg",
     "static/media/toast-pending.svg": "/static/media/toast-pending.8f145332e2a427300ccb.svg",
+    "static/media/inactive-add.svg": "/static/media/inactive-add.bd5c150420bfa9997399.svg",
+    "static/media/add-icon.svg": "/static/media/add-icon.6f7516a62e5ada1032a1.svg",
     "static/media/copy-s.svg": "/static/media/copy-s.65effef83719f4225c94.svg",
     "static/media/finish.svg": "/static/media/finish.cb81808670d20709222e.svg",
     "static/media/warning.svg": "/static/media/warning.b93836070dc70e9cd43949829db9dd9b.svg",
+    "static/media/inactive-remove.svg": "/static/media/inactive-remove.026bafcb7668bc86a785.svg",
     "static/media/collateral.svg": "/static/media/collateral.6880051c301b92182179.svg",
+    "static/media/remove-icon.svg": "/static/media/remove-icon.1feb361fd355bb2c321e.svg",
     "static/media/argent.svg": "/static/media/argent.2072722af24bb46c8126.svg",
     "static/media/trade-warn.svg": "/static/media/trade-warn.eded38e11a0c864b68e2.svg",
     "static/media/USDT.svg": "/static/media/USDT.6db8325183760d906430.svg",
@@ -133,8 +139,10 @@
     "static/media/LINK.svg": "/static/media/LINK.692d2fc5e631a2c99006.svg",
     "static/media/skip.svg": "/static/media/skip.ab6f553c230f8e395b5f.svg",
     "static/media/filter.svg": "/static/media/filter.057de510e53efef4e0e613c26ab1c707.svg",
+    "static/media/trigger-price-icon.svg": "/static/media/trigger-price-icon.6aaf6eea2220e9250a0f.svg",
     "static/media/drop-down-hover.svg": "/static/media/drop-down-hover.0626ff8c2597f09ba027.svg",
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
+    "static/media/drop-up.svg": "/static/media/drop-up.086d70f8891336866526.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.291a542785088742ee05.svg",
     "static/media/deri.svg": "/static/media/deri.520d2449010ba041d79ad6e2863c3bdb.svg",
     "static/media/search.svg": "/static/media/search.09d940054c58c4acb1c1b905c175fa68.svg",
@@ -169,7 +177,7 @@
     "static/media/toast-success.svg": "/static/media/toast-success.d9919d5e1e6a05ba2f77.svg",
     "static/media/tab.svg": "/static/media/tab.6f1ec2a006202f75b9f0.svg",
     "static/media/to-left.svg": "/static/media/to-left.dbd52f97d30a5b707fd1.svg",
-    "static/media/arrow-down.svg": "/static/media/arrow-down.3242399ee4fa67534aa3aa7f0f8dcb73.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.3242399ee4fa67534aa3.svg",
     "static/media/m-tab.svg": "/static/media/m-tab.3e5f9332690672af3363.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.978039f24e5085a46d6d.svg",
     "static/media/up-price.svg": "/static/media/up-price.e826d9a8109e331167ef.svg",
@@ -180,7 +188,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.92407372.css",
-    "static/js/main.face93d7.js"
+    "static/css/main.bd0dcb50.css",
+    "static/js/main.838d96ec.js"
   ]
 }
