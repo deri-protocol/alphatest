@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2bb9379.css",
-    "main.js": "/static/js/main.176b0a05.js",
+    "main.css": "/static/css/main.c6ddbd1a.css",
+    "main.js": "/static/js/main.44d51921.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.b9e9203072d246bb2578.svg",
     "static/media/share-position-option.svg": "/static/media/share-position-option.36a7b240c4db234fd09c.svg",
     "static/media/share-position-future.svg": "/static/media/share-position-future.8c2523c837ca64218730.svg",
+    "static/media/index-bg.webm": "/static/media/index-bg.0e9cc24f1f5cff33b107.webm",
     "static/media/index-bg.png": "/static/media/index-bg.f4ce37331aaa92014c2b.png",
     "static/media/bind-bg.png": "/static/media/bind-bg.b995f84b41202ddada45.png",
     "static/media/APE.svg": "/static/media/APE.c4a0de34e03e20116432.svg",
@@ -212,7 +213,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.b2bb9379.css",
-    "static/js/main.176b0a05.js"
+    "static/css/main.c6ddbd1a.css",
+    "static/js/main.44d51921.js"
   ]
 }
