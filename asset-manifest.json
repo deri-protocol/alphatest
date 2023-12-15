@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7edfb548.css",
-    "main.js": "/static/js/main.af59b662.js",
+    "main.css": "/static/css/main.25bc0063.css",
+    "main.js": "/static/js/main.1b61d849.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
-    "static/media/index.mp4": "/static/media/index.4b8607712096a88688c8.mp4",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
     "static/media/share-position-option.svg": "/static/media/share-position-option.becc28bf4b7e736e63c2.svg",
@@ -40,7 +39,6 @@
     "static/media/WETH.svg": "/static/media/WETH.eda5ca694f6c6402f0bc.svg",
     "static/media/rebate.svg": "/static/media/rebate.dae1da60b6d4c37b1cac.svg",
     "static/media/twitter.svg": "/static/media/twitter.03a72969193a3632e88e.svg",
-    "static/media/deri-logo-p.png": "/static/media/deri-logo-p.3bb54957b4728c437668.png",
     "static/media/coinbase.svg": "/static/media/coinbase.cfc2c880396ac9dfa60f.svg",
     "static/media/total-rewards-m.png": "/static/media/total-rewards-m.da9694bf55a4a3e1c6b1.png",
     "static/media/total-fee-m.png": "/static/media/total-fee-m.91d6ad13e8d731bcb224.png",
@@ -219,7 +217,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.7edfb548.css",
-    "static/js/main.af59b662.js"
+    "static/css/main.25bc0063.css",
+    "static/js/main.1b61d849.js"
   ]
 }
