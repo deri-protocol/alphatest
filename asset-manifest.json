@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.11f97532.css",
-    "main.js": "/static/js/main.b13818d7.js",
+    "main.css": "/static/css/main.7f5534c0.css",
+    "main.js": "/static/js/main.661a8881.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -41,6 +41,7 @@
     "static/media/Pancake.svg": "/static/media/Pancake.82e714df38ea84d07f6a.svg",
     "static/media/stats-border.png": "/static/media/stats-border.7ce3fca801d2b4ac00b4.png",
     "static/media/WETH.svg": "/static/media/WETH.454213ef715492ab4c5c.svg",
+    "static/media/taiko-logo.svg": "/static/media/taiko-logo.a6c09819da4a699c209ccb7e9c133d6a.svg",
     "static/media/rebate.svg": "/static/media/rebate.dc52a91b1e0662881700.svg",
     "static/media/twitter.svg": "/static/media/twitter.eee5155f05704749f88d.svg",
     "static/media/celestia.svg": "/static/media/celestia.3383edc291fede9e401d62ab081aa524.svg",
@@ -246,7 +247,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.11f97532.css",
-    "static/js/main.b13818d7.js"
+    "static/css/main.7f5534c0.css",
+    "static/js/main.661a8881.js"
   ]
 }
