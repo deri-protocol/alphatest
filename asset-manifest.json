@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e9aacc6.css",
-    "main.js": "/static/js/main.547815d3.js",
+    "main.css": "/static/css/main.11f97532.css",
+    "main.js": "/static/js/main.6f35c63b.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/DOGE.svg": "/static/media/DOGE.f87b27a2eb0822f419c3.svg",
     "static/media/chain-bg-two.png": "/static/media/chain-bg-two.52a1f7ed182ee88e9bb2.png",
     "static/media/TUSD.svg": "/static/media/TUSD.d23073feabe475c7d2ab.svg",
+    "static/media/taiko-chain-logo.svg": "/static/media/taiko-chain-logo.2cf0224564939964d651.svg",
     "static/media/XVS.svg": "/static/media/XVS.5896dc93d6bc4afee0e0.svg",
     "static/media/facebook.svg": "/static/media/facebook.fb3bbac21eda41970f00.svg",
     "static/media/deri-fi.png": "/static/media/deri-fi.ab56d302353c97df5a9c.png",
@@ -245,7 +246,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.1e9aacc6.css",
-    "static/js/main.547815d3.js"
+    "static/css/main.11f97532.css",
+    "static/js/main.6f35c63b.js"
   ]
 }
