@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95c60be4.css",
-    "main.js": "/static/js/main.bcfb507e.js",
+    "main.css": "/static/css/main.1bb58d85.css",
+    "main.js": "/static/js/main.7b7b29d6.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -39,6 +39,7 @@
     "static/media/HIGH 3.png": "/static/media/HIGH 3.7bfa333814abb2ef4853.png",
     "static/media/WIZ 4.png": "/static/media/WIZ 4.86df4ecc6e30a5d91fa4.png",
     "static/media/bind-bg-m.png": "/static/media/bind-bg-m.bcb7349e2ff5ce4e7ec0.png",
+    "static/media/SUI.svg": "/static/media/SUI.e06fd17616c72dfd2418.svg",
     "static/media/CHAMP 3.png": "/static/media/CHAMP 3.f56a015690c48ae6705a.png",
     "static/media/PARTICIPANT 2.png": "/static/media/PARTICIPANT 2.f8d8c78d7ef7c2a35a22.png",
     "static/media/ROI 4.png": "/static/media/ROI 4.756129b889ed371846dd.png",
@@ -304,7 +305,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.95c60be4.css",
-    "static/js/main.bcfb507e.js"
+    "static/css/main.1bb58d85.css",
+    "static/js/main.7b7b29d6.js"
   ]
 }
