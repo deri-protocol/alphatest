@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c74fec8.css",
-    "main.js": "/static/js/main.defb0613.js",
+    "main.css": "/static/css/main.e801a8ea.css",
+    "main.js": "/static/js/main.dc5d60a4.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -65,6 +65,7 @@
     "static/media/UST.svg": "/static/media/UST.04d71276a51bd79c8585.svg",
     "static/media/FLOKI.svg": "/static/media/FLOKI.748c2d93e3c3b0a4ffa6.svg",
     "static/media/BABYDOGE.svg": "/static/media/BABYDOGE.224f52900850cc1fea0d.svg",
+    "static/media/base-chain-logo.svg": "/static/media/base-chain-logo.1377b53323b05e699997788d4592bb0a.svg",
     "static/media/CAKE.svg": "/static/media/CAKE.82e714df38ea84d07f6a.svg",
     "static/media/Pancake.svg": "/static/media/Pancake.82e714df38ea84d07f6a.svg",
     "static/media/stats-border.png": "/static/media/stats-border.7ce3fca801d2b4ac00b4.png",
@@ -107,6 +108,7 @@
     "static/media/FITFI.svg": "/static/media/FITFI.f0353c4d841db5d55983.svg",
     "static/media/warning-blue.svg": "/static/media/warning-blue.4687b9ad2afd6afc50b5.svg",
     "static/media/governance-discussion.svg": "/static/media/governance-discussion.7afb067b209a381252ec98059d192124.svg",
+    "static/media/CBBTC.svg": "/static/media/CBBTC.72a36e23b24e60df1335.svg",
     "static/media/share-medium.svg": "/static/media/share-medium.77577c5253a7dfb00ce4.svg",
     "static/media/USDB.svg": "/static/media/USDB.eaf0dd28e9f6bc26d7f3.svg",
     "static/media/aave.svg": "/static/media/aave.0f2cae47ca403201c9596a5311bf83a6.svg",
@@ -300,7 +302,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.2c74fec8.css",
-    "static/js/main.defb0613.js"
+    "static/css/main.e801a8ea.css",
+    "static/js/main.dc5d60a4.js"
   ]
 }
