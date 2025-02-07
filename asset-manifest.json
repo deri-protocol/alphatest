@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7d480285.css",
-    "main.js": "/static/js/main.f5f9100e.js",
+    "main.js": "/static/js/main.a0d24237.js",
     "static/js/199.60fec64f.chunk.js": "/static/js/199.60fec64f.chunk.js",
     "static/js/27.088fd4ee.chunk.js": "/static/js/27.088fd4ee.chunk.js",
     "static/js/544.47c9b630.chunk.js": "/static/js/544.47c9b630.chunk.js",
@@ -37,6 +37,7 @@
     "static/media/task-deposit.svg": "/static/media/task-deposit.b6e9eeac4359c0fb91ab.svg",
     "static/media/FLOKI.svg": "/static/media/FLOKI.748c2d93e3c3b0a4ffa6.svg",
     "static/media/BABYDOGE.svg": "/static/media/BABYDOGE.224f52900850cc1fea0d.svg",
+    "static/media/base-chain-logo.svg": "/static/media/base-chain-logo.fad0ad38beb26d88919a.svg",
     "static/media/CAKE.svg": "/static/media/CAKE.82e714df38ea84d07f6a.svg",
     "static/media/WETH.svg": "/static/media/WETH.eda5ca694f6c6402f0bc.svg",
     "static/media/rebate.svg": "/static/media/rebate.dae1da60b6d4c37b1cac.svg",
@@ -63,6 +64,7 @@
     "static/media/explained-one.svg": "/static/media/explained-one.32d357bc67129b929ff5.svg",
     "static/media/APT.svg": "/static/media/APT.a04d7017efb5d0823517.svg",
     "static/media/no-position-icon.svg": "/static/media/no-position-icon.f4519d1120a22baa37b6.svg",
+    "static/media/TRUMP.svg": "/static/media/TRUMP.51589921a406e8189716.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
     "static/media/okx.svg": "/static/media/okx.7c881669935d0794b0b5.svg",
     "static/media/no-redeem.svg": "/static/media/no-redeem.1b5c2c29498dc3a2ac42.svg",
@@ -84,6 +86,7 @@
     "static/media/warning-blue.svg": "/static/media/warning-blue.4687b9ad2afd6afc50b5.svg",
     "static/media/share-tg-icon.svg": "/static/media/share-tg-icon.aee8c5b454cc95bd02e7.svg",
     "static/media/earn.svg": "/static/media/earn.f6ed9cbe1b2934c10d42.svg",
+    "static/media/CBBTC.svg": "/static/media/CBBTC.72a36e23b24e60df1335.svg",
     "static/media/referral-cur.svg": "/static/media/referral-cur.30c167e33d5e68f06b9e.svg",
     "static/media/share-medium.svg": "/static/media/share-medium.77577c5253a7dfb00ce4.svg",
     "static/media/USDB.svg": "/static/media/USDB.eaf0dd28e9f6bc26d7f3.svg",
@@ -91,6 +94,7 @@
     "static/media/SXP copy.svg": "/static/media/SXP copy.39f87b408544df857724.svg",
     "static/media/SXP.svg": "/static/media/SXP.39f87b408544df857724.svg",
     "static/media/OP.svg": "/static/media/OP.53be6ecd382bb1af36eb.svg",
+    "static/media/POL.svg": "/static/media/POL.9c8b6f3fda2d199b9af5.svg",
     "static/media/beta.svg": "/static/media/beta.fa0a0cd66b1893cd3356.svg",
     "static/media/rebate-total-users.svg": "/static/media/rebate-total-users.079a837e9d16613b7e5c.svg",
     "static/media/REZ.svg": "/static/media/REZ.c1f6d69ec0c83725e4eb.svg",
@@ -135,6 +139,7 @@
     "static/media/task-x.svg": "/static/media/task-x.83044078e70bf329d408.svg",
     "static/media/step-three.svg": "/static/media/step-three.0a5b387dbbb2f77f83d2.svg",
     "static/media/SOL.svg": "/static/media/SOL.f7b923e20b4ebaefc1b5.svg",
+    "static/media/SUI.svg": "/static/media/SUI.c9c0ab5372ecd672b31c.svg",
     "static/media/AVAX.svg": "/static/media/AVAX.f5dc1c5a3d6e2a28ab1e.svg",
     "static/media/warn-remove-hint.svg": "/static/media/warn-remove-hint.10d6888120ff676f46b9.svg",
     "static/media/tab-option.svg": "/static/media/tab-option.9b2ac6e3d9c5c64f6008.svg",
@@ -258,6 +263,6 @@
   },
   "entrypoints": [
     "static/css/main.7d480285.css",
-    "static/js/main.f5f9100e.js"
+    "static/js/main.a0d24237.js"
   ]
 }
