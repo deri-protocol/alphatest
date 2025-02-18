@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b30a9840.css",
-    "main.js": "/static/js/main.25a04236.js",
+    "main.css": "/static/css/main.8a2716c9.css",
+    "main.js": "/static/js/main.c8257ffc.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -144,10 +144,10 @@
     "static/media/share-facebook.svg": "/static/media/share-facebook.cf19153ff7602175875e.svg",
     "static/media/governance-bg.svg": "/static/media/governance-bg.fbf56143b750afd818a2.svg",
     "static/media/privilege.svg": "/static/media/privilege.9c1f0375da5df998d8cbf85bfd5026d3.svg",
-    "index.html": "/index.html",
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.2487135d2cac8d698ac5.svg",
     "static/media/LUSD.svg": "/static/media/LUSD.fa9435faa0e93e0abd42.svg",
     "static/media/alilayer.svg": "/static/media/alilayer.b31dffad1fd85e0be9759683b1bd01e2.svg",
+    "index.html": "/index.html",
     "static/media/MANTA.svg": "/static/media/MANTA.7763ffbfd572ec6b3a03.svg",
     "static/media/manta-chain-logo.svg": "/static/media/manta-chain-logo.7763ffbfd572ec6b3a03.svg",
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.96aaba7611572f954a5d.svg",
@@ -319,7 +319,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.b30a9840.css",
-    "static/js/main.25a04236.js"
+    "static/css/main.8a2716c9.css",
+    "static/js/main.c8257ffc.js"
   ]
 }
