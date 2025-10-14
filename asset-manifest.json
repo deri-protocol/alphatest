@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b997480c.css",
-    "main.js": "/static/js/main.d0ae80aa.js",
+    "main.css": "/static/css/main.3c100e44.css",
+    "main.js": "/static/js/main.762c641f.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -57,6 +57,7 @@
     "static/media/TUSD.svg": "/static/media/TUSD.92c5d7673c59320430cb.svg",
     "static/media/work-bg.svg": "/static/media/work-bg.87d1fd625ce4a62529fc81154acbad87.svg",
     "static/media/daniel.jpg": "/static/media/daniel.66afa0a1384d6321e46e.jpg",
+    "static/media/fire-icon.svg": "/static/media/fire-icon.6f8dab15d2ab533cd76b.svg",
     "static/media/taiko-chain-logo.svg": "/static/media/taiko-chain-logo.53b70dc78d1025474104.svg",
     "static/media/XVS.svg": "/static/media/XVS.780d1abe72099a8ece6a.svg",
     "static/media/facebook.svg": "/static/media/facebook.4e480b0d5fd17a1d3f29.svg",
@@ -66,6 +67,7 @@
     "static/media/total-fee.png": "/static/media/total-fee.a1b6fafea0906c210e25.png",
     "static/media/total-users.png": "/static/media/total-users.7dfa8036ca324e09684b.png",
     "static/media/UST.svg": "/static/media/UST.04d71276a51bd79c8585.svg",
+    "static/media/task-deposit.svg": "/static/media/task-deposit.b6e9eeac4359c0fb91ab.svg",
     "static/media/FLOKI.svg": "/static/media/FLOKI.748c2d93e3c3b0a4ffa6.svg",
     "static/media/BABYDOGE.svg": "/static/media/BABYDOGE.224f52900850cc1fea0d.svg",
     "static/media/base-chain-logo.svg": "/static/media/base-chain-logo.1377b53323b05e699997788d4592bb0a.svg",
@@ -76,6 +78,7 @@
     "static/media/taiko-logo.svg": "/static/media/taiko-logo.48a774fbe0e92d1cfe2a152944ed03f8.svg",
     "static/media/rebate.svg": "/static/media/rebate.dae1da60b6d4c37b1cac.svg",
     "static/media/twitter.svg": "/static/media/twitter.03a72969193a3632e88e.svg",
+    "static/media/task-trading.svg": "/static/media/task-trading.c867abbdd723cce8e93f.svg",
     "static/media/celestia.svg": "/static/media/celestia.0983b8ef8e1668ae8c8d2467b5e30a27.svg",
     "static/media/coinbase.svg": "/static/media/coinbase.cfc2c880396ac9dfa60f.svg",
     "static/media/total-rewards-m.png": "/static/media/total-rewards-m.da9694bf55a4a3e1c6b1.png",
@@ -83,6 +86,7 @@
     "static/media/total-users-m.png": "/static/media/total-users-m.1aa9b1b73e595419a757.png",
     "static/media/ADA.svg": "/static/media/ADA.16778aad2deaccebbc4f.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af7bc063246773.svg",
+    "static/media/task-wallet.svg": "/static/media/task-wallet.c63a87c8ea55eb55e249.svg",
     "static/media/WIF.svg": "/static/media/WIF.0be4852fb4e1e30206b2.svg",
     "static/media/arbitrum.svg": "/static/media/arbitrum.ad23fcdae1087a57c85fdafcc61ad476.svg",
     "static/media/walletconnect.svg": "/static/media/walletconnect.304e327744ae5c9b1b62.svg",
@@ -140,6 +144,7 @@
     "static/media/BTC.svg": "/static/media/BTC.db6e15a8db8b35fff7ad.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.b3f0e9330037ffc44c6a.svg",
     "static/media/rebate-total-rewards.svg": "/static/media/rebate-total-rewards.d9f7aa264442f1e27ea4.svg",
+    "static/media/claim-success.svg": "/static/media/claim-success.d2be07b5f43dd2be74d4.svg",
     "static/media/share-facebook.svg": "/static/media/share-facebook.cf19153ff7602175875e.svg",
     "static/media/governance-bg.svg": "/static/media/governance-bg.fbf56143b750afd818a2.svg",
     "static/media/privilege.svg": "/static/media/privilege.9c1f0375da5df998d8cbf85bfd5026d3.svg",
@@ -222,6 +227,7 @@
     "static/media/short.svg": "/static/media/short.d1a2efcedc93205b0026.svg",
     "static/media/TRX.svg": "/static/media/TRX.533898d5a6e5f03f4400.svg",
     "static/media/scan.svg": "/static/media/scan.352a0cbce78d51ee79e7.svg",
+    "static/media/LINEA.svg": "/static/media/LINEA.0f97faf61299109db77e.svg",
     "static/media/linea-chain-logo.svg": "/static/media/linea-chain-logo.0f97faf61299109db77e.svg",
     "static/media/MATIC.svg": "/static/media/MATIC.80d4567910bcd41ec917.svg",
     "static/media/NOT.svg": "/static/media/NOT.366d2ef1b68f0301e209.svg",
@@ -239,7 +245,6 @@
     "static/media/close-kline.svg": "/static/media/close-kline.c0a63f2b338cdaca504b.svg",
     "static/media/open-step.svg": "/static/media/open-step.0404c3beae2e583c2c4b.svg",
     "static/media/succeed.svg": "/static/media/succeed.1057d4b2662b4ba280dafecdfbbe1c42.svg",
-    "static/media/LINEA.svg": "/static/media/LINEA.e0c7e7424046eeac0d3c.svg",
     "static/media/copy-code.svg": "/static/media/copy-code.24f4144db4be98e4d5c1.svg",
     "static/media/XRP.svg": "/static/media/XRP.ac1e04f17611364e44ea.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.ac1e04f17611364e44ea.svg",
@@ -324,7 +329,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.b997480c.css",
-    "static/js/main.d0ae80aa.js"
+    "static/css/main.3c100e44.css",
+    "static/js/main.762c641f.js"
   ]
 }
